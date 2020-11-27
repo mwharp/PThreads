@@ -1,2 +1,2 @@
 # PThreads
-A lab from Operating Systems that taught how PThreads worked
+This assignment was a two person lab from Operating Systems that taught how PThreads worked. My partner and I were able to correct eachother when we were confused on something or did something wrong. Learning PThreads helped me learn more about OS, specifically Linux, and how I am able to work with another person to work together to complete a assingment correctly when we are both a bit confused on how exactly to code it.
